@@ -84,4 +84,4 @@ vboxmanage dhcpserver add --network=lablocal --server-ip=10.38.1.1 --lower-ip=10
 * Parrot OS shows having the configured IP of ```10.38.1.111``` and since I assigned the IP range of ```10.38.1.110 - 10.38.1.120``` & booted Metasploitable3 first, it gained ```10.38.1.110``` from DHCP.
 * A simple nmap scan of the first 1,000 ports reveals some of the vulnerabilities and enumerates the correct service information.
 
-<img src="https://i.postimg.cc/LXywrL70/image.png">
+<img src="https://i.postimg.cc/tg0Y0VPk/image.png">
